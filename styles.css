@@ -1,0 +1,297 @@
+
+
+.homepage{
+  background-color: black;
+  background-repeat: no-repeat;
+   background-size: 100% 100%;
+  padding: 2% 6%;
+  padding-top: 0px;
+
+}
+.back{
+
+  border-radius: 10px;
+
+}
+
+.navbar{
+  padding: 2% 3%;
+}
+
+.navbar-brand{
+
+  color: white;
+  font-family: 'Cabin', sans-serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.navbar-brand:hover{
+  color: white;
+  font-style: italic;
+}
+.menu{
+  height: 66px;
+  width: 66px;
+}
+.nav-link{
+padding: 20px;
+  color: silver;
+  margin:0px 28px;
+  font-family: 'Cabin', sans-serif;
+  font-weight: bolder;
+  letter-spacing: 2px;
+}
+.mainlog{
+  background-color: none;
+  height: 500px;
+  width:500px;
+
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.col-lg-4{
+
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin:50px 0px;
+}
+
+.features{
+  padding: 4% 12%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.feat{
+  margin-top: 10px;
+}
+
+.d-block{
+
+
+  height: 500px;
+  width: 600px;
+
+}
+
+.slideshow{
+
+text-align: center;
+}
+
+.carousel-item{
+  padding: 1% 15%;
+  margin-bottom: 50px;
+
+
+
+
+
+}
+
+
+hr{
+  display: block;
+    margin: 150px auto;
+    color: initial;
+
+ background-color: transparent;
+ opacity: 1;
+
+  border-style: none;
+  border-top-style: dotted;
+  width: 13%;
+  border-width: 10px;
+
+  border-color: #63B4B8;
+
+
+
+
+}
+
+.lasts{
+  margin:50px 10px;
+}
+
+.limage:hover{
+
+  height: 40px;
+  width: 40px;
+}
+
+#contact{
+  text-align: center;
+  padding: 8% 15%;
+}
+
+#dusra{
+  padding-top: 16px;
+
+}
+#dusras{
+  padding-top: 16px;
+
+}
+#pahila{
+  padding-top: 16px;
+
+}
+#tisra{
+  padding-top: 16px;
+
+}
+.dogs{
+  border-radius: 20px;
+}
+
+@media screen and (max-width: 725px){
+
+  .dogs{
+    width: 340px;
+    height: 340px;
+  }
+
+}
+
+.buts{
+  margin:10px;
+
+}
+
+#mainphotos{
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAe1BMVEUAAAAAAAMAAAUAAAYLCg8ODRcfHDgHBhIEBAovLT0AAAoZEwhCNQovK0YRERcjGBBjQSEdGBFRQyMXEg8/NChFQRBBPCIfHBUsKzUtLDkoJTsxLEoPDQsUFBEhHzEoJTQfHyA2Mk4pKCofHyIgHyghHywWFCMODB0WEiyDe8D3AAABbklEQVR4nO3c61KCQBgGYCBK7GDnc5mlVvd/hV1Aw0zJup8rz/MTBt7PHVh3F7SqAAAAAAAAAAAAAAAAAAAAAAAAYh0eTaJLKEY3ja6gIF1XVXWOoCZLSp/jyPBNBLbWyWlc9ibOZoHh5xeB4aW5vIquoCDXN9EVbKwJSAz9ehkgf1sV7Da6gJLc3Q84+OHxoG/X0/OA8+6ql9chR3fznh1N1b4V2zVtS93T5zWV7pA9dFTc9DNQowuA3bTo2f5ijPPbe8/2w0XOKgrR9g0KBw3M91bC++0j3aki1FXO9d/lMmPYFqxWOdOmXc605Nqsad06a1zRDDcAAAAAdkkzn1ix+avpTFv9Vf0ZXcGWHSf8gPXBnl9XbdZnG4XrvqIrKEjK2xBIIe/j2cI9RBdQElcWwCg0dZqZcd8Pm/ZKnWh5qh3DnKr7TnOedhTvBq7TvC7aRv4hRDatEf0/jOKSAAAAAAAAAAAAAAAAYGx+AL4kBhOfZPDOAAAAAElFTkSuQmCC");
+
+  max-height: 100%;
+  max-width: 100%;
+}
+
+
+
+.hemu{
+  list-style: none;
+  text-decoration: none;
+
+  font-family: 'Cabin', sans-serif;
+
+
+  letter-spacing: 2px;
+  color: white;
+  margin-bottom: 0px;
+
+
+}
+
+.hemu:hover{
+  color: #F5EEDC;
+
+
+}
+
+.det{
+
+  color: white;
+}
+
+
+h1{
+  font-family: 'Ubuntu Mono', monospace;
+
+  margin-bottom: 10px;
+    font-size: 54px;
+    line-height: 1.1;
+    letter-spacing: 2px;
+    color: white;
+
+  text-shadow: 2px 2px silver;
+
+}
+
+.sli{
+  color: #9D5C0D;
+  padding-top: 80px;
+  padding-bottom: 40px;
+  text-shadow: 2px 2px #E5890A;
+}
+
+
+.maintit{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fas{
+  font-size: 80px;
+  color: #1A374D;
+}
+.fas:hover{
+  color: black;
+  cursor: pointer;
+}
+
+
+.nav-link:hover{
+  color: black;
+  font-weight: bolder;
+}
+li:hover{
+  background-color: white;
+  border-radius: 10px;
+}
+
+.navbar-toggler{
+  background-color: grey;
+  padding: 5px;
+  border-radius: 10px;
+  margin-right: 8px;
+
+}
+p{
+  text-align: center;
+  color: silver;
+  font-size: 1.5rem;
+}
+
+
+.sampla{
+  font-size: 1.3rem;
+  margin-top: 20px;
+
+}
+@media screen and (max-width: 991px)
+{
+  li{
+    text-align: center;
+  }
+
+  .navbar-brand{
+    text-align: center;
+  }
+
+  .hemu{
+    margin-left: 15px;
+  }
+}
+
+span{
+  display: block;
+  height: 1px;
+  width: 18px;
+  margin: 5px;
+  border:1px solid black;
+}
+
+.navbar-toggler:hover{
+  background-color: white;
+}
